@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 48276214ab4804e4680a3c9b8633ac2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CRTShader: {fileID: 4800000, guid: 46eaa7ede3edd89468fcb5953e17f714, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
